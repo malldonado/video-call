@@ -1,4 +1,4 @@
-📽️ # Video Call
+# 📽️ Video Call
 
 A simple video call application using ReactJS (frontend) and Node.js with Socket.io (backend).
 
