@@ -10,3 +10,7 @@ A simple video call application using ReactJS (frontend) and Node.js with Socket
 
 - Frontend: ReactJS
 - Backend: Node.js, Socket.io, Nodemon
+
+## License
+
+This project is licensed under the MIT License.
